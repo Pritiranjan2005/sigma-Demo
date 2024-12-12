@@ -1,2 +1,2 @@
 # sigma-Demo
-This is the pratice repo
+This is the pratice repo.
