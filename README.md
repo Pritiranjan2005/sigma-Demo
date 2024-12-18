@@ -4,6 +4,6 @@ This is the pratice repo.
 # Teacher
 Shradha Khapra
 
-#Student
+# Student
 Sigma Student
 
